@@ -1,4 +1,4 @@
-package tests.state;
+package units.state;
 
 import org.junit.Assert;
 import org.junit.Test;
