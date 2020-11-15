@@ -1,4 +1,4 @@
-package state;
+package patterns.state;
 
 public class Canvas
 {
@@ -12,13 +12,13 @@ public class Canvas
         this.currentTool = currentTool;
     }
 
-    public void mouseUp()
+    public String mouseUp()
     {
-        currentTool.mouseUp();
+        return currentTool.mouseUp();
     }
 
-    public void mouseDown()
+    public String mouseDown()
     {
-        currentTool.mouseDown();
+        return currentTool.mouseDown();
     }
 }
