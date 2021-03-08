@@ -7,3 +7,5 @@ Implementation of the must popular design patterns using JAVA
 |----|----------------|
 | :heavy_check_mark: | <a href="https://github.com/MouadZIANI/design-patterns-in-java/tree/1-state-pattern" target="_blank">State pattern</a>|
 | :x: | Template method |
+
+feautred_repository
